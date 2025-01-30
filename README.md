@@ -1,8 +1,35 @@
-# React + Vite
+# BeyondChats 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Project Overview
+BeyondChats is a chatbot company that helps businesses integrate AI-powered chatbots seamlessly. This project is a UI/UX implementation of the chatbot setup workflow.
 
-Currently, two official plugins are available:
+## 🎯 Features
+### 1️⃣ User Registration
+### 2️⃣ Setup Organization
+### 3️⃣ Chatbot Integration & Testing
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- **Frontend**: React (Vite), Tailwind CSS
+- **Authentication**: Firebase (JavaScript)
+
+## 📦 Installation
+```bash
+# Clone the repository
+git clone <https://github.com/thisissushant/beyondchats>
+cd beyondchats
+
+# Install dependencies
+ npm install
+
+# Start development server
+npm run dev
+```
+
+## 🔗 Live Demo
+[Live Project](https://beyondchats-rho.vercel.app/)
+
+
+## 📧 Contact
+For any queries, feel free to reach out:
+- **Email**: sushantbibhu@gmail.com
+- **GitHub**: [GitHub](https://github.com/thisissushant/beyondchats)
