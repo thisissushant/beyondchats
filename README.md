@@ -37,12 +37,18 @@ For any queries, feel free to reach out:
 
 ## 📸 Screenshots
 
-### Registration Page
-![Registration Page](assets/Signin)
+### Sign In Page
+![Sign In](src/assets/SignIn.png)
 
-### Chatbot Setup Page
-![Setup Page](assets/setup.png)
+### Sign Up Page
+![Sign Up](src/assets/Signup.png)
 
-### Integration Page
-![Integration Page](assets/integration.png)
+### Setup Organisation
+![Setup Organisation](src/assets/Setup-Organisation.png)
+
+### Chatbot Integration
+![Chatbot Integration](src/assets/Chatboat-integration.png)
+
+### Dashboard
+![Dashboard](src/assets/Dashboard.png)
 
