@@ -33,3 +33,16 @@ npm run dev
 For any queries, feel free to reach out:
 - **Email**: sushantbibhu@gmail.com
 - **GitHub**: [GitHub](https://github.com/thisissushant/beyondchats)
+
+
+## 📸 Screenshots
+
+### Registration Page
+![Registration Page](assets/Signin)
+
+### Chatbot Setup Page
+![Setup Page](assets/setup.png)
+
+### Integration Page
+![Integration Page](assets/integration.png)
+
